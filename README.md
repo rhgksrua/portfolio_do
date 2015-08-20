@@ -1,1 +1,3 @@
 # Portfolio
+
+* Setting git deply
